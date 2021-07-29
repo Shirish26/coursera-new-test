@@ -14,7 +14,7 @@
   }
   
   h1 {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     text-align: center;
     color: black;
   }
@@ -47,11 +47,11 @@
     width: 90%;
     height: auto;
     margin: 2.5%;
-    color: black
-    font-size: 25px;
+    color: black;
+    font-size: 15px;
     font-weight: bold;
-    padding: 2.5%;
-    padding-top: 35px;
+    padding: 2.8%;
+    padding-top: 42px;
     background-color: rgba(0,0,0,0.3);
   }
   
